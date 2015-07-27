@@ -12,6 +12,7 @@ Skills
 ----------
 
 During my time at Makers Academy I have:
+
 - learnt how to build full stack web applications written in ruby and javascript
 *Ruby (Ruby-on-Rails) and JavaScript (MEAN JS)*,
 
@@ -19,14 +20,16 @@ During my time at Makers Academy I have:
 
 - practiced Pair Programming (throughout) and worked in teams of 4 to 10 people with different skills and approaches.
 
+
 Languages
+----------
 
-I learnt and keep learning many different languages:
+I'm passionate about languages, both programming and natural:
 
-- German, because they have a verb for feeling ashamed for someone else: **sich fremdschämen**
-- French, because you want to understand [this song](https://www.youtube.com/watch?v=0lA7T2xc2xc)
-- Hungarian, because you only need a word to say *I hate you*: **utállak**
-
+- *JavaScript*, because it's asychronous, thus better at shaping reality,
+- *Ruby*, because it's elegant, concise and has the best documentation I've come across so far,
+- *German*, because it has a word to express pretty much every feeling and situation,
+- *Hungarian*, because its logic is twisted and fascinating and the vocal harmony makes it sound nice
 
 
 
