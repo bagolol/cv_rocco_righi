@@ -26,9 +26,9 @@ Languages
 
 I'm passionate about languages, both programming and natural:
 
-- *JavaScript*, because it's asychronous, thus better at shaping reality,
-- *Ruby*, because it's elegant, concise and has the best documentation I've come across so far,
-- *German*, because it has a word to express pretty much every feeling and situation,
+- *JavaScript*, because it's asychronous, thus better at shaping reality
+- *Ruby*, because it's elegant, concise and has the best documentation I've come across so far
+- *German*, because it has a word to express pretty much every feeling and situation
 - *Hungarian*, because its logic is twisted and fascinating and the vocal harmony makes it sound nice
 
 - *French*, because old songs just sound better in French
