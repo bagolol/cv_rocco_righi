@@ -31,6 +31,7 @@ I'm passionate about languages, both programming and natural:
 - *German*, because it has a word to express pretty much every feeling and situation,
 - *Hungarian*, because its logic is twisted and fascinating and the vocal harmony makes it sound nice
 
+- *French*, because old songs just sound better in French
 
 
 Education
