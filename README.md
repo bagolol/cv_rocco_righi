@@ -13,12 +13,12 @@ Skills
 
 During my time at Makers Academy I have:
 
-- learnt how to build full stack web applications written in Ruby and JavaScript
-*Ruby (Ruby-on-Rails) and JavaScript (MEAN JS)*,
+- learnt how to build full stack web applications written in Ruby and JavaScript.
+*Ruby (Ruby-on-Rails) and JavaScript (MEAN JS)*
 
-- acquired a solid understanding of *TDD* (e.g. Rspec, Capybara, Jasmine, Protractor) and Agile practices. I'm at ease with version control (Git) and with project management tools (Trello and Waffle),
+- acquired a solid understanding of *TDD* (e.g. Rspec, Capybara, Jasmine, Protractor) and Agile practices. I'm at ease with version control (Git) and with project management tools (Trello and Waffle)
 
-- practiced Pair Programming (throughout) and worked in teams of 4 to 10 people with different skills and approaches.
+- practiced Pair Programming (throughout) and worked in teams of 4 to 10 people with different skills and approaches
 
 
 Languages
