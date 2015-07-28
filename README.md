@@ -31,6 +31,7 @@ I'm passionate about languages, both programming and natural:
 
 - *German*, because it has a word to express pretty much every feeling and situation
 - *Hungarian*, because its logic is twisted and fascinating and the vocal harmony makes it sound nice
+
 - *French*, because old songs just sound better in French
 
 
@@ -51,6 +52,20 @@ Education
 - English language and literature
 - German language and literature
 - Modern and contemporary history
+
+Employement
+----------
+
+
+### OMD International, London (2012 - 15)
+**Account Manager - Apple**
+
+- managed the team responsible for all of iTunes digital media activities
+
+### Bigmouthmedia - Milan (2006 - 11)
+**Account Manager**
+
+- directly managed the digital media activities of numerous clients from the travel and retail sector
 
 Interests
 ---------
