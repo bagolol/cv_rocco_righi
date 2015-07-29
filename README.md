@@ -5,7 +5,7 @@ Rocco Righi
 **Programming bootcamp graduate currently looking for a junior developer job.**
 
 I'm an experienced online marketer, who recently turned to coding. I enjoy developing efficient solutions to problems and learning about new technologies.
-Beside Javascript, Ruby and my mother tongue Italian, I understand (and speak) German and French. I enjoy working in teams and international environments.
+Beside JavaScript, Ruby and my mother tongue Italian, I understand (and speak) German and French. I enjoy working in teams and international environments.
 
 
 Skills
