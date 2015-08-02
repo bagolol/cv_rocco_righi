@@ -40,7 +40,7 @@ Education
 
 
 ### [Makers Academy], London
-**Programming Bootcamp: April&mdash;July 2015**
+**Programming boot camp: April&mdash;July 2015**
 
 - Highly selective 12 week full-time course.
 - Focussed on Pair Programming, Test Driven Development and Agile practices.
